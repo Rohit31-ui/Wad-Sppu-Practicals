@@ -1,0 +1,22 @@
+Steps:-
+
+1.Install Angular CLI (if not already installed)
+
+command -  npm install -g @angular/CLI
+
+2.Create a new Angular project
+
+ng new user-auth-app
+cd user-auth-app
+
+3.Generate components and services
+
+ng generate component register
+ng generate component login
+ng generate component profile
+ng generate service auth
+
+4.Install Bootstrap (Optional for UI Styling)
+npm install bootstrap
+
+

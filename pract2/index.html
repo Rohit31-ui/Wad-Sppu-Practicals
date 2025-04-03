@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Registration Form</title>
+</head>
+<body>
+    <!-------- heading--------- -->
+
+    <h1>Student Registration</h1>
+    <!-------- form with id ---------->
+    <form id="registerForm">
+        <!--------- Name ----------->
+        <label for="name">Name</label>
+        <input type="text" id="name" placeholder="Name" required> <br><br>
+        <!--------- email ----------->
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" placeholder="Enail" required> <br><br>
+        
+        <!-------- password ------------>
+        <label for="pass">Password</label>
+        <input type="password" id="pass" placeholder="Password" required> <br><br>
+
+        <!---------- submit button ----------->
+        <button type="submit" onclick="alert('registered successfully')">Register</button>
+    </form>
+
+    <br>
+    <!----------- link page to see registered students ------------>
+    <a href="users.html">View Registered</a>
+
+    <!------------ linking javascript code to handle storage of form data ----------->
+    <script src="script.js"></script>
+</body>
+</html>

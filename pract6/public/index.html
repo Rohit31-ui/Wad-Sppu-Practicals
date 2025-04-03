@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome Page</title>
+
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            background-color: aqua;
+            color: white;
+            font-weight: 900;
+        }
+        button{
+            padding: 10px 20px;
+            font-size: 16px;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+    </style>
+
+</head>
+<body>
+    <h1>Welcome to my static website</h1>
+    <p>This website is served using Node.js and Express.js</p>
+    <button onclick="showMessage()">Click Me</button>
+
+    <script>
+        function showMessage() {
+            alert("Hello! This website is served using Node.js and Express.js")
+        }
+    </script>
+</body>
+</html>
