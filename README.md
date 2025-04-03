@@ -87,3 +87,10 @@ Version Control: Git & GitHub
 Containerization: Docker
 
 Deployment: AWS
+
+
+Contributor:- 
+    Name:-Rohit Lad
+    Email: mailto:rohitlad014@gmail.com
+    Linkedin: https://www.linkedin.com/in/rohit-lad-1550b4259/
+            
