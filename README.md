@@ -1,7 +1,13 @@
 #WAD-SPPU Practicals
+
+
+
 This repository contains practical assignments for the Web Application Development (WAD) course under Savitribai Phule Pune University (SPPU). It includes frontend and backend web development tasks using technologies like HTML, CSS, JavaScript, Bootstrap, ReactJS, Angular, Node.js, Express.js, MongoDB, Git, Docker, and AWS.
 
 #Assignments Overview
+
+
+
 Assignment 1: Responsive Dashboard & User Registration
 ✅ Part A: Responsive Web Page (E-commerce/College/Exam Admin Dashboard)
 
